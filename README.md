@@ -98,5 +98,3 @@ Pull requests are welcome! If you’d like to add new artifact types, improve pa
 Built with ❤️ by [@wjkaliman](https://github.com/wjkaliman) to make digital forensics more accessible, explainable, and collaborative.
 
 ---
-
-Would you like me to help you add a screenshot, write a `requirements.txt`, or generate a `LICENSE` file next?
